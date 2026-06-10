@@ -1,0 +1,6 @@
+/* App Store — custom styles beyond Tailwind/shadcn */
+
+/* Smooth scroll for the detail dialog */
+[data-slot="scroll-area-viewport"] {
+  scroll-behavior: smooth;
+}

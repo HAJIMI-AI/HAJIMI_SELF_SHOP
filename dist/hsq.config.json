@@ -1,0 +1,8 @@
+{
+    "appId": "self_shop",
+    "appName": "应用商店",
+    "appVersion": "1.0.1",
+    "appDescription": "这是一个应用商店",
+    "gitUrl": "https://github.com/HAJIMI-AI/HAJIMI_SELF_SHOP",
+    "mode": "local"
+  }
